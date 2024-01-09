@@ -8,7 +8,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class OwnerPlanDto {
-
     private long planId;
     private String planName;
     private double price;
